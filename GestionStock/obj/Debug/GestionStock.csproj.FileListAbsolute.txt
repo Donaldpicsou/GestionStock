@@ -1,0 +1,6 @@
+c:\users\pic-sou\documents\visual studio 2012\Projects\GestionStock\GestionStock\bin\Debug\GestionStock.exe.config
+C:\Users\Pic-sou\documents\visual studio 2012\Projects\GestionStock\GestionStock\bin\Debug\GestionStock.exe
+C:\Users\Pic-sou\documents\visual studio 2012\Projects\GestionStock\GestionStock\bin\Debug\GestionStock.pdb
+C:\Users\Pic-sou\documents\visual studio 2012\Projects\GestionStock\GestionStock\obj\Debug\GestionStock.csprojResolveAssemblyReference.cache
+C:\Users\Pic-sou\documents\visual studio 2012\Projects\GestionStock\GestionStock\obj\Debug\GestionStock.exe
+C:\Users\Pic-sou\documents\visual studio 2012\Projects\GestionStock\GestionStock\obj\Debug\GestionStock.pdb
