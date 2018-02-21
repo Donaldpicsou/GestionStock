@@ -87,7 +87,7 @@ Un menu présentant les fonctionnalités suivantes :
 		/// <param name="min"></param>
 		/// <param name="max"></param>
 		/// <returns></returns>
-		static Article[] Search(List<Article> articles, int min, int max) {
+		static List <Article> Search(List<Article> articles, int min, int max) {
 			// A compléter....
 			return null;
 		}
